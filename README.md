@@ -1,6 +1,15 @@
 # flutter_complete_demo
 
-A new Flutter project.
+A new Flutter project specifically built for COSC067/267 Human Computer Interaction, Assignment A2.2. 
+Files edited in the repo specificially by following demo (https://www.youtube.com/watch?v=b-NS_5za44c): 
+/lib/main.dart
+/lib/homepage.dart
+/windows/pubspec.yaml
+
+And added the following assets:
+/assets/Dartmouth-College-Logo.png
+/assets/hci-logo.png
+
 
 ## Getting Started
 
